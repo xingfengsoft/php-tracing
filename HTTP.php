@@ -1,6 +1,6 @@
 <?php
 
-include ("../vendor/autoload.php");
+include ("./vendor/autoload.php");
 
 use Jaeger\Config;
 use GuzzleHttp\Client;
