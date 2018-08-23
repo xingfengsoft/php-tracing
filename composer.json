@@ -4,6 +4,5 @@
     "jukylin/jaeger-php" : "^2.0",
     "opentracing/opentracing":"1.0.0-beta2",
     "guzzlehttp/guzzle":"6.3.3",
-    "hprose/hprose-swoole": "2.0.11"
   }
 }
